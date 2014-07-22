@@ -8,7 +8,7 @@ systems. I have added Ablum part.
 
 Preview
 -------
-![perview](preview.jpg)
+![perview](https://raw.githubusercontent.com/leegtang/zf20/master/preview.JPG)
 Dierectory
 ----------
 	-| www
