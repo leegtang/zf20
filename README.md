@@ -6,6 +6,9 @@ Introduction
 This is a simple, demo application using the ZF2 MVC layer and module
 systems. I have added Ablum part.
 
+Preview
+-------
+![perview](preview.jpg)
 Dierectory
 ----------
 	-| www
