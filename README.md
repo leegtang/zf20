@@ -9,7 +9,7 @@ systems. I have added Ablum part.
 Preview
 -------
 ![perview](https://raw.githubusercontent.com/leegtang/zf20/master/preview.JPG)
-Dierectory
+Directory
 ----------
 	-| www
 		-| ZendFramework-2.3.1/library
